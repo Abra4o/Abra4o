@@ -30,12 +30,13 @@
 Estudante de Ciência da Computação | Aspirante a Desenvolvedor | Apaixonado por Programação e Criação de Soluções Inovadoras.
 
 **Currently at** Procurando emprego — Aracaju, SE
+
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="abraaor047@gmail.com">
+  <a href="abraaor048@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
   <a href="www.linkedin.com/in/abraão-luiz">

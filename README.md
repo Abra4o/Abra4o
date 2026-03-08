@@ -29,7 +29,7 @@
 
 Estudante de Ciência da Computação | Aspirante a Desenvolvedor | Apaixonado por Programação e Criação de Soluções Inovadoras.
 
-**Currently at** Procurando emprego — Aracaju, SE
+**Atualmente:** Procurando emprego — Aracaju, SE
 
 </details>
 

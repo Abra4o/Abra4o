@@ -4,65 +4,61 @@
 username: Abra4o
 
 profile:
-  name: "Abraão Luiz"
-  tagline: "Desenvolvedor Backend"
-  company: "Nenhuma no momento"
-  location: "Aracaju, SE"
-  bio: |
-    Estudante de Ciência da Computação | Aspirante a Desenvolvedor | Apaixonado por Programação e Criação de Soluções Inovadoras.
-  philosophy: '"Quando não sabemos o que fazer, só precisamos dar o próximo passo."'
+    name: "Abraão Luiz"
+    tagline: "Desenvolvedor Backend"
+    company: "Nenhuma no momento"
+    location: "Aracaju, SE"
+    bio: |
+        Estudante de Ciência da Computação | Aspirante a Desenvolvedor | Apaixonado por Programação e Criação de Soluções Inovadoras.
+    philosophy: '"Quando não sabemos o que fazer, só precisamos dar o próximo passo."'
 
 social:
-  email: "abraaor047@gmail.con"
-  linkedin: "www.linkedin.com/in/abraão-luiz"
+    email: "abraaor047@gmail.con"
+    linkedin: "www.linkedin.com/in/abraão-luiz"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 galaxy_arms:
-  - name: "Backend"
-    color: "dendrite_violet"
-    items:
-      - "Python"
-      - "Java"
-      - "IA"
+    - name: "Backend"
+      color: "dendrite_violet"
+      items:
+          - "Python"
+          - "Java"
+          - "IA"
 
 # Featured projects shown as constellation stars
 projects:
-  - repo: "https://github.com/ja0leal/Projeto-de-Programa-o_N02_Grupo5.git"
-    arm: 0
-    description: "O projeto Agenda de Cursos com gerenciamento e controle de cursos.
-    
-  - repo: "https://github.com/Abra4o/Projetos_Python.git"
-    arm: 1
-    description: "Script que transqueve um vídeo"
+    - repo: "https://github.com/ja0leal/Projeto-de-Programa-o_N02_Grupo5.git"
+      arm: 0
+      description: "O projeto Agenda de Cursos com gerenciamento e controle de cursos."
+    - repo: "https://github.com/Abra4o/Projetos_Python.git"
+      arm: 1
+      description: "Script que transqueve um vídeo"
 
 # Theme color overrides (optional — defaults to deep space palette)
 theme:
-  void: "#080c14"
-  nebula: "#0f1623"
-  star_dust: "#1a2332"
-  synapse_cyan: "#00d4ff"
-  dendrite_violet: "#a78bfa"
-  axon_amber: "#ffb020"
-  text_bright: "#f1f5f9"
-  text_dim: "#94a3b8"
-  text_faint: "#64748b"
+    void: "#080c14"
+    nebula: "#0f1623"
+    star_dust: "#1a2332"
+    synapse_cyan: "#00d4ff"
+    dendrite_violet: "#a78bfa"
+    axon_amber: "#ffb020"
+    text_bright: "#f1f5f9"
+    text_dim: "#94a3b8"
+    text_faint: "#64748b"
 
 # Stats configuration
 stats:
-  metrics:
-    - "commits"
-    - "stars"
-    - "prs"
-    - "issues"
-    - "repos"
+    metrics:
+        - "commits"
+        - "stars"
+        - "prs"
+        - "issues"
+        - "repos"
 
 # Language display settings
 languages:
-  exclude:
-    - "HTML"
-    - "CSS"
-    - "Java"
-    - "Python"
-    - "JavaScript"
-  max_display: 8
+    exclude:
+        - "HTML"
+        - "CSS"
+    max_display: 8

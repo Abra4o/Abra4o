@@ -19,12 +19,17 @@ social:
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 galaxy_arms:
+    - name: "FullStack"
+      color: "synapse_cyan"
+      items:
+          - "Java"
+          - "MySQL"
+          - "JavaScript"
+
     - name: "Backend"
       color: "dendrite_violet"
       items:
           - "Python"
-          - "Java"
-          - "IA"
 
 # Featured projects shown as constellation stars
 projects:
